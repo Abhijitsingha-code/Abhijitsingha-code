@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Android App Development**
 
-- 📫 How to reach me **singhaabhijit@343gmail.com**
+- 📫 How to reach me **abhijit03.pro@gmail.com**
 
 - ⚡ Fun fact **I am introvert!!! I Love playing Mobile legend**
 
