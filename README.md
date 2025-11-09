@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/abhijit92362902" target="blank"><img src="https://img.shields.io/twitter/follow/abhijit92362902?logo=twitter&style=for-the-badge" alt="abhijit92362902" /></a> </p>
 
-- 🌱 I’m currently learning **Android App Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **abhijit03.pro@gmail.com**
 
